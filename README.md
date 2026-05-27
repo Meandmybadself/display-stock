@@ -1,5 +1,7 @@
 # display-stock
 
+![Stock ticker display running on the Feather](pic.jpg)
+
 ESP32-S2 firmware that turns an [Adafruit Feather ESP32-S2 Reverse TFT](https://www.adafruit.com/product/5345) into a desktop stock ticker. Rotates through a configurable list of symbols, showing price and daily percent change on the 240×135 TFT.
 
 ## Features
